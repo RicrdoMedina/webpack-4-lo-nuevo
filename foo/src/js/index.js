@@ -1,1 +1,0 @@
-console.log('Iniciando con webpack 4 sin archivo config')
